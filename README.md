@@ -1,2 +1,2 @@
 # mini-program
-easy to learn project
+easy to learn mini program
